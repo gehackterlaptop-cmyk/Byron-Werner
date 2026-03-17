@@ -1,0 +1,14 @@
+# GitHub Pages Configuration
+
+# This file configures the GitHub Pages site for the repository.
+
+domain: example.com  # Replace with your custom domain if you have one
+
+title: Your Site Title  # Replace with your site title
+
+# Enable GitHub Pages
+# The baseurl can be used if you are serving via a subpath, leave empty if served at the root.
+baseurl: ""
+
+# Theme configuration
+theme: minima  # You can choose a theme that fits your requirement
